@@ -9,12 +9,12 @@ This repository contains files and results related to evaluating the response ac
 - **Purpose**: To evaluate GPT-3.5's accuracy in answering simple True/False trivia questions.
 
 ### 2. `boolean_gpt_o1_results.json`
-- **Description**: Contains GPT-01-Preview's responses to True/False questions sourced from the trivia dataset.
-- **Purpose**: To evaluate the impact of integrated chain-of-thought reasoning in GPT-01-Preview for answering True/False trivia questions.
+- **Description**: Contains GPT o1-preview's responses to True/False questions sourced from the trivia dataset.
+- **Purpose**: To evaluate the impact of integrated chain-of-thought reasoning in GPT o1-preview for answering True/False trivia questions.
 
 ### 3. `mcq_gpt_o1_results.json`
-- **Description**: Contains GPT-01-Preview's responses to multiple-choice (MCQ) questions from the trivia dataset.
-- **Purpose**: To assess GPT-01-Preview's performance in answering multiple-choice trivia questions using integrated chain-of-thought reasoning.
+- **Description**: Contains GPT o1-preview's responses to multiple-choice (MCQ) questions from the trivia dataset.
+- **Purpose**: To assess GPT o1-preview's performance in answering multiple-choice trivia questions using integrated chain-of-thought reasoning.
 
 ### 4. `multiple_gpt_3.5_results.json`
 - **Description**: Contains GPT-3.5's responses to multiple-choice (MCQ) questions from the trivia dataset.
