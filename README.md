@@ -1,4 +1,4 @@
-# GPT-01-Preview-CoT-Reasoning
+# GPT o1-Preview CoT Reasoning
 
 This repository contains files and results related to evaluating the response accuracy of GPT models (GPT-3.5 and GPT-01-Preview) on trivia datasets, with a focus on integrated chain-of-thought (CoT) reasoning. Below is a description of the included files:
 
