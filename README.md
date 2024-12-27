@@ -16,7 +16,7 @@ This repository aims to explore how integrated chain-of-thought reasoning in GPT
 - **Description**: Contains GPT o1-preview's responses to multiple-choice (MCQ) questions from the trivia dataset.
 - **Purpose**: To assess GPT o1-preview's performance in answering multiple-choice trivia questions using integrated chain-of-thought reasoning.
 
-### 4. `multiple_gpt_3.5_results.json`
+### 4. `mcq_gpt_3.5_results.json`
 - **Description**: Contains GPT-3.5's responses to multiple-choice (MCQ) questions from the trivia dataset.
 - **Purpose**: To evaluate GPT-3.5's accuracy in multiple-choice trivia scenarios.
 
