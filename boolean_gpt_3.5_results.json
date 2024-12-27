@@ -1,0 +1,5357 @@
+[
+    {
+        "question": "The freshwater amphibian, the Axolotl, can regrow it's limbs.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Kangaroos keep food in their pouches next to their children.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "An octopus can fit through any hole larger than its beak.",
+        "category": "Animals",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Killer Whale is considered a type of dolphin.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Cats have whiskers under their legs.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The Platypus is a mammal.",
+        "category": "Animals",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "A bear does NOT defecate during hibernation. ",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Tigers have one colour of skin despite the stripey fur.",
+        "category": "Animals",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "You can tell the age of a ladybird by counting the spots on his back.",
+        "category": "Animals",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Rabbits can't vomit.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "A caterpillar has more muscles than humans do.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Rabbits are carnivores.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "A flock of crows is known as a homicide.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Finnish Lapphund dogs were used for herding reindeer.",
+        "category": "Animals",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Kamea,\" the Gilbertese Islander word for dog, is derived from the English phrase \"Come here!\"",
+        "category": "Animals",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The internet browser Firefox is named after the Red Panda.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The average lifespan of a wildcat is only around 5-6 years. ",
+        "category": "Animals",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The Ceratosaurus, a dinosaur known for having a horn on the top of its nose, is also known to be a decendent of the Tyrannosaurus Rex.",
+        "category": "Animals",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Rabbits are rodents.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Rabbits can see what's behind themselves without turning their heads.",
+        "category": "Animals",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Leonardo da Vinci's Mona Lisa does not have eyebrows.",
+        "category": "Art",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Vincent van Gogh cut off one of his ears.",
+        "category": "Art",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
+        "category": "Art",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Venus of Willendorf is one of the earliest works of art, depicting the planets Mars and Venus embrace in the heavens at night.",
+        "category": "Art",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Pablo Picasso is one of the founding fathers of \"Cubism.\"",
+        "category": "Art",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Marilyn Monroe was born on July 1, 1926.",
+        "category": "Celebrities",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
+        "category": "Celebrities",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Lady Gaga's real name is Stefani Joanne Angelina Germanotta.",
+        "category": "Celebrities",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"PAYDAY: The Heist\" is a sequel to the board game \"Payday\".",
+        "category": "Entertainment: Board Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The card game \"Munchkin\" won the 2001 Origins Award for Best Traditional Card Game.",
+        "category": "Entertainment: Board Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the game \"Racko\" you may pick up ANY card from the discard pile.",
+        "category": "Entertainment: Board Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Rich Uncle Pennybags\" from the board game \"Monopoly\" wears a monocle.",
+        "category": "Entertainment: Board Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The board game Go has more possible legal positions than the number of atoms in the visible universe.",
+        "category": "Entertainment: Board Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Snakes and Ladders was originally created in India?",
+        "category": "Entertainment: Board Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Angry Video Game Nerd's alter ego is \"Board James\".",
+        "category": "Entertainment: Board Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "There is a Donald Trump Board Game, which was made in 1989.",
+        "category": "Entertainment: Board Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Shub-Niggurath is a creature that was created by \tJ. R. R. Tolkien in his novel \"The Lord of The Rings\".",
+        "category": "Entertainment: Books",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Harry Potter was born on July 31st, 1980.",
+        "category": "Entertainment: Books",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Stephen Chbosky wrote the book 'The Perks of Being A Wallflower'.",
+        "category": "Entertainment: Books",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Green Eggs and Ham\" consists of only 50 different words.",
+        "category": "Entertainment: Books",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Harry Potter and the Deathly Hallows, Hermione destroyed the fourth Horcrux by stabbing it with the Sword of Gryffindor.",
+        "category": "Entertainment: Books",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The book 1984 was published in 1949.",
+        "category": "Entertainment: Books",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.",
+        "category": "Entertainment: Books",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "\"Elementary, my dear Watson\" is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",
+        "category": "Entertainment: Books",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The \"Berenstein Bears\" is the correct spelling of the educational children's book series' name.",
+        "category": "Entertainment: Books",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Harry Potter series of books, combined, are over 1,000,000 words in length.",
+        "category": "Entertainment: Books",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Donald Duck played the role of Bob Cratchit in Disney's 1983 adaptation of A Christmas Carol.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Avatar: The Last Airbender\" and \"The Legend of Korra\", Lavabending is a specialized bending technique of Firebending.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Bill Cipher in the show \"Gravity Falls\" is the good guy.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In the \"Shrek\" film franchise, Donkey is played by Eddie Murphy.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby's All-Star Laff-a-Lympics.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Nickelodeon rejected the pilot to Adventure Time.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Night on Bald Mountain was one of the musical pieces featured in Disney's 1940's film Fantasia.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Waylon Smithers from \"The Simpsons\" was originally black when he first appeared in the series.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Blue Danube was one of the musical pieces featured in Disney's 1940's film Fantasia.",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "In the webcomic Homestuck, the first character introduced is Dave Strider.",
+        "category": "Entertainment: Comics",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In the comic book \"Archie\", Betty is friends with Veronica because she is rich.",
+        "category": "Entertainment: Comics",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Deadpool's identity is Slade Wilson.",
+        "category": "Entertainment: Comics",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The \"Pepe\" meme originated from a comic drawn by Matt Furie called \"Boy's Club\"?",
+        "category": "Entertainment: Comics",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Shaquille O'Neal appeared in the 1997 film \"Space Jam\".",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The film \"2001: A Space Odyssey\" was released on December 31st, 2000.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "George Lucas directed the entire original Star Wars trilogy.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Xenomorph from the science fiction film \"Alien\" has acidic blood.",
+        "category": "Entertainment: Film",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The original ending of \"Little Shop Of Horrors\" has the plants taking over the world.",
+        "category": "Entertainment: Film",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The word \"Inception\" came from the 2010 blockbuster hit \"Inception\".",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The weapon Clint Eastwood uses in \"Dirty Harry\" was a .44 Automag.",
+        "category": "Entertainment: Film",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Actor Tommy Chong served prison time.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The 2010 film \"The Social Network\" is a biographical drama film about MySpace founder Tom Anderson.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Leonardo DiCaprio won an Oscar for Best Actor in 2004's \"The Aviator\".",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In the original script of \"The Matrix\", the machines used humans as additional computing power instead of batteries.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The movie \"The Nightmare before Christmas\" was all done with physical objects.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Alfred Hitchcock's film 'Psycho' it is said he used chocolate syrup to simulate the blood in the famous shower scene from ",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Sean Connery wasn't in \"Indiana Jones and the Kingdom of the Crystal Skull\" because he found retirement too enjoyable.",
+        "category": "Entertainment: Film",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "\"Minions\" was released on the June 10th, 2015.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The color of the pills in the Matrix were Blue and Yellow.",
+        "category": "Entertainment: Film",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Samuel L. Jackson had the words, 'Bad Motherf*cker' in-scripted on his lightsaber during the filming of Star Wars.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In the movie The Revenant, DiCaprio's character hunts down the killer of his son.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "YouTube personality Jenna Marbles served as an executive producer of the film Maximum Ride (2016).",
+        "category": "Entertainment: Film",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The movie \"Tron\" received an Oscar nomination for Best Visual Effects.",
+        "category": "Entertainment: Film",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "There aren't any live-action clones in \"Star Wars: Episode III - Revenge of the Sith\".",
+        "category": "Entertainment: Film",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Joan Cusack starred in the 2009 disaster movie, \"2012\".",
+        "category": "Entertainment: Film",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Cube\", \"Cube 2: Hypercube\" and \"Cube Zero\" were directed by the same person.",
+        "category": "Entertainment: Film",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Brandon Routh plays the titular character in the movie \"John Wick\".",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Han Solo's co-pilot and best friend, \"Chewbacca\", is an Ewok.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Foodfight!\" earned less than $80,000 at box office.",
+        "category": "Entertainment: Film",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the \"Toaru Kagaku no Railgun\" anime,  espers can only reach a maximum of level 6 in their abilities.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "In the \"Melancholy of Haruhi Suzumiya\" series, the narrator goes by the nickname Kyon.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the \"To Love-Ru\" series, Peke is considered a female robot.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Druid is a mage class in \"Log Horizon\".",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "No Game No Life first aired in 2014.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Gosho Aoyama Made This Series: (Detective Conan / Case Closed!)",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Full Metal Panic!, Whispered are those who are capable of creating Black Technology.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the \"To Love-Ru\" series, Golden Darkness is sent to kill Lala Deviluke.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "In \"JoJo's Bizarre Adventure\", Father Enrico Pucchi uses a total of 3 stands in Part 6: Stone Ocean.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The name of the attack \"Kamehameha\" in Dragon Ball Z was named after a famous king of Hawaii.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The anime \"Lucky Star\" follows the story of one girl who is unaware she is God.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Kiznaiver is an adaptation of a manga.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In Chobits, Hideki found Chii in his apartment.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "In the \"Kagerou Daze\" series, Shintaro Kisaragi is prominently shown with the color red.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the 1988 film \"Akira\", Tetsuo ends up destroying Tokyo.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Studio Ghibli is a Japanese animation studio responsible for the films \"Wolf Children\" and \"The Boy and the Beast\".",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"To Love-Ru: Darkness\", Yami reveals her real name is Eve.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The character Plum from \"No Game No Life\" is a girl.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Throughout the entirety of \"Dragon Ball Z\", Goku only kills two characters: a miniboss named Yakon and Kid Buu.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The animated film \"Spirited Away\" won the Academy Award for Best Animated Feature at the 75th Academy Awards in 2003.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Kill La Kill, the weapon of the main protagonist is a katana. ",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The protagonist in \"Humanity Has Declined\" has no discernable name and is simply referred to as 'I' for most of the series.",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The song \"Mystery Train\" was released by artist \"Little Junior's Blue Flames\" in 1953.",
+        "category": "Entertainment: Music",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Arcade Fire's 'The Suburbs' won the Album of the Year award in the 2011 Grammys.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "A Facebook campaign placed Rage Against The Machine's \"Killing in the Name Of\" as the UK Christmas Number 1 in 2009.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Neutral Milk Hotel\" is a real band.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Muse is a British (English) rock band",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The band STRFKR was also briefly known as Pyramiddd.",
+        "category": "Entertainment: Music",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Daft Punk originated in France.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Nick Mason is the only member to appear on every Pink Floyd album.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The 2011 movie \"The Adventures of Tintin\" was directed by Steven Spielberg.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The alternative rock band, They Might Be Giants, released their album 'Flood' in 1990. ",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Stevie Wonder's real name is Stevland Hardaway Morris.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The music group Daft Punk got their name from a negative review they recieved.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Pink Guy's debut album was \"Pink Season\".",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Norwegian producer Kygo released a remix of the song \"Sexual Healing\" by Marvin Gaye.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The singer Billie Holiday was also known as \"Lady Day\".",
+        "category": "Entertainment: Music",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Scatman John's real name was John Paul Larkin.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Green Day's album 'American Idiot' is considered a \"punk rock opera.\"",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "John Williams composed the music for \"Star Wars\".",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Soulja Boy's 'Crank That' won a Grammy for Best Rap Song in 2007.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Dave Grohl recorded the Foo Fighters' debut, \"Foo Fighters,\" by himself.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Ashley Frangipane performs under the stage name Halsey.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his \"Mothership\" set piece for one night only.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The song Scatman's World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).",
+        "category": "Entertainment: Music",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "A Saxophone is a brass instrument.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Rapper Snoop Dogg's real name is 'Cordozar Calvin Broadus, Jr.'.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Scottish producer Calvin Harris is from the town of Dumfries, Scotland.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Metallica collaborated with Rowan Atkinson's Mr Bean on a 1992 comic relief single.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The music video to The Buggle's \"Video Killed the Radio Star\" was the first music video to broadcast on MTV.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Lead Singer Rivers Cuomo of American rock band Weezer attended Harvard.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Michael Jackson wrote The Simpsons song \"Do the Bartman\".",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Eurobeat is primarily an Italian genre of music.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Pete Townshend's solo album, \"White City: A Novel\", is set in the metropolitan area of Chicago.",
+        "category": "Entertainment: Music",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The cover of The Beatles album \"Abbey Road\" featured a Volkswagen Beetle in the background.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "American rapper Dr. Dre actually has a Ph.D. doctorate.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Musical artist, Future, collaborated with Kendrick Lamar for the song: \"Mask Off\".",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The song \"Stronger Than You\" is a single by Estelle, who played Garnet in Steven Universe.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In 1993, Prince changed his name to an unpronounceable symbol because he was unhappy with his contract with Warner Bros.",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Twenty One Pilots\" made the song \"The Motion\" featuring Sampha.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Korean girl group, TWICE, consists of 9 members",
+        "category": "Entertainment: Music",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "EDM label Monstercat signs tracks instead of artists.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"The Division Bell\" is the final album of the progressive rock band Pink Floyd.",
+        "category": "Entertainment: Music",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In the play Oedipus Rex, Oedipus kills his father due to jealousy in loving his mother.",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "IMAX stands for Image Maximum.",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The protagonist's names in 'Who's Afraid of Virginia Woolf', George and Martha, were derived from George Washington and his wife.",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Klingons respect their disabled comrades, and those who are old, injuried, and helpless.",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "\"The Simpsons\" family is named after creator Matt Groening's real family.",
+        "category": "Entertainment: Television",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The Klingon home planet is Qo'noS.",
+        "category": "Entertainment: Television",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Star Trek: The Next Generation\", Data is the only android in existence.",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Klingons once had a period of Democracy in their history, they referred to it as the \"Dark Times\".",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In \"Star Trek\", Klingons are aliens.",
+        "category": "Entertainment: Television",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Doctor Who\", the Doctor gets his TARDIS by stealing it.",
+        "category": "Entertainment: Television",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Star Trek\", Klingons respect William Shakespeare, they even suspect him having a Klingon lineage.",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Star Trek\", Klingons are commonly referred to as \"Black Elves\".",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Klingons express emotion in art through opera and poetry.",
+        "category": "Entertainment: Television",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the TV series Red Dwarf, Kryten's full name is Kryten 2X4B-523P.",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The television show Doctor Who first aired in 1963.",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Like his character in \"Parks and Recreation\", Aziz Ansari was born in South Carolina.",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In \"Star Trek\", Klaang is a typical Klingon male.",
+        "category": "Entertainment: Television",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Battlestar Galactica (2004), Cylons were created by man as cybernetic workers and soldiers.",
+        "category": "Entertainment: Television",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Bob Ross was a US Air Force pilot.",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "An episode of \"The Simpsons\" is dedicated to Moe Szyslak's bar rag.",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "AMC's \"The Walking Dead\", Rick, Carl, Daryl, Morgan, Carol and Maggie were introduced to us in Season 1.",
+        "category": "Entertainment: Television",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Minecraft wasn't the original name to Minecraft.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The first Maxis game to feature the fictional language \"Simlish\" was The Sims (2000).",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The 2005 video game \"Call of Duty 2: Big Red One\" is not available on PC.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Ace Attorney trilogy was suppose to end with \"Phoenix Wright: Ace Attorney \u2212 Trials and Tribulations\" as its final game.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Peter Molyneux was the founder of Bullfrog Productions.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The game \"Battlefield 1\" takes place during World War I.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Rocket League, you can play Basketball.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The game \"Pocket Morty\" has a Morty called \"Pocket Mortys Morty\"?",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "\"Metal Gear Solid 3: Snake Eater\" was released in 2004.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Several characters in \"Super Mario 64\" blink their eyes, including Mario himself.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Call Of Duty: World At War\", the first appearance of the \"PPSH-41\" in \"Zombies\" was in the map \"Der Riese\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The main character in the \"Half-Life\" franchise is named Morgan Freeman.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The video game \"Fuel\" has an open world that is 5,560 square miles?",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The ghosts in \"Pac-Man\" and \"Ms. Pac-Man\" have completely different behavior.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In \"Space Station 13\",  the station has a clown aboard it.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the game \"Melty Blood Actress Again Current Code\", you can enter Blood Heat mode in Half Moon style.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "TF2: The Heavy's voice actor, Gary Schwartz, voices the Demoman as well ",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In the game Dead by Daylight, the killer Michael Myers is refered to as \"The Shape\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Metal Gear Solid 3: Snake Eater\" takes place on Shadow Moses Island.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Resident Evil\", only Chris has access to the grenade launcher.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Luigi is taller than Mario?",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In \"Undertale\", the main character of the game is Sans.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The PlayStation was originally a joint project between Sega and Sony that was a Sega Genesis with a disc drive.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In Half-Life 2, if you play the zombies' speech in reverse, they actually speak coherent English.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "David Baszucki was a co-founder of ROBLOX Corporation.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Each piece in Tetris is called a tetris.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Super Mario Bros.\", the clouds and bushes have the same artwork and are just different colors.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Shang Tsung is a playable character in Mortal Kombat XL.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The Paradox Interactive game \"Stellaris\" was released in 2016.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Pistons were added to Minecraft in Beta 1.5.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The end credits sequence in Grand Theft Auto 5 is over half an hour long.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Donkey Kong was originally set to be a Popeye arcade game.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Return to Castle Wolfenstein\" was the only game of the Wolfenstein series where you don't play as William \"B.J.\" Blazkowicz.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "TF2: The Medic will be credited for an assist if he heals a Spy that successfully saps a building.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the game \"Subnautica\", a \"Spadefish\" will attack you.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In The Witcher 3, the Zoltan Chivay Gwent card can be found under the Hanged Man's Tree.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Minecraft can be played with a virtual reality headset.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Super Mario 64\", collecting 100 coins on a level will give you a 1-UP.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "In Heroes of the Storm, the Cursed Hollow map gimmick requires players to kill the undead to curse the enemy team.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The retail disc of Tony Hawk's Pro Skater 5 only comes with the tutorial.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "There are 6 legendary cards in \"Clash Royale\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Call Of Duty: Zombies\", you can upgrade the \"Apothicon Servant\" in the \"Shadows Of Evil\" map.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The name of the main character of the video game \"The Legend of Zelda\", is Zelda.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"League of Legends\", there exists four different types of Dragon.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Solid Snake is actually a clone from the DNA of Big Boss in the Metal Gear Solid series' history.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Codemasters is the developer of the Gran Turismo series.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "During pre-production of \"Super Mario Bros.\", Mario originally was meant to shoot bullets.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Starbound\", the track played by the Decorated Music Box is named \"Atlas\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The first \"Metal Gear\" game was released for the PlayStation 1.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In Sonic the Hedgehog universe, Tails' real name is Miles Prower.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Activision created Battlefield 1.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Need for Speed: Porsche Unleashed\", the player can only drive cars manufactured by Porsche.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Sniper's SMG in Team Fortress 2, was originally intended to be the Scout's primary weapon.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Ana was added as a new hero for the game Overwatch on July 19th, 2016.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Overwatch,\" an allied McCree will say \"Step right up\" upon using his ultimate ability Deadeye.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Resident Evil 4 was originally meant to be a Nintendo GameCube exclusive.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the video game \"Splatoon\", the playable characters were originally going to be rabbits instead of squids.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "TF2: Sentry rocket damage falloff is calculated based on the distance between the sentry and the enemy, not the engineer and the enemy",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "In the \"Half-Life\" series, \"H.E.V\" stands for \"Hazardous Evasiveness Vest\"",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "DragonForce's 'Through the Fire and Flames' is widely considered to be the hardest song in the Guitar Hero series.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Undertale\" is an RPG created by Toby Fox and released in 2015.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Terraria, you can craft the Cell Phone pre-hardmode.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Tony Hawk's extreme sports videogames revolve around performing professional BMX tricks.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Tetris is the #1 best-selling video game of all-time.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Mario Kart 64\", Waluigi is a playable character.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Rebecca Chambers does not appear in any Resident Evil except for the original Resident Evil and the Gamecube remake.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Amazon acquired Twitch in August 2014 for $970 million dollars.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Nintendo started out as a playing card manufacturer.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Hidden in the files for \"Mario Kart Arcade GP\" is a picture of the Beslan school hostage crisis.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In the Super Mario series, the character Pauline is a Princess like Princess Peach.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In career mode of \"Need for Speed: Underground 2\", the first car the player can drive is the BMW M3 GTR.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Fiat Multipla is a drivable car in \"Forza Horizon 3\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Indie Game Development Studio Cing, developers of Hotel Dusk and Last Window, went bankrupt on March 1st, 2010.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In Portal, the Companion Cube's ARE sentient.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In \"Portal 2\", Cave Johnson started out Aperture Science as a shower curtain company.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Super Mario 3D World\", the Double Cherry power-up originated from a developer accidentally making two characters controllable.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Until Dawn, both characters Sam and Mike cannot be killed under any means until the final chapter of the game.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In \"Minecraft\", gold tools are faster than diamond tools.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The character that would eventually become Dr. Eggman was considered for the role of Sega's new flagship mascot before Sonic was.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the video game \"Transistor\", \"Red\" is the name of the main character.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Watch_Dogs 2 is a prequel.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Nintendo's Luigi was originally just called Green Mario?",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "All of these maps were in \"Tom Clancy's Rainbow Six Siege\" on its initial release: House, Clubhouse, Border, Consulate.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "\"Resident Evil 7\" is the first first-person Resident Evil game.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "\"Half-Life 2\" runs on the Source Engine.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Riot Games \"League of Legends\" the name of Halloween event is called \"The Reckoning\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Gordon Freeman, the protagonist of \"Half-Life\", is said to have once had a ponytail.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In Monster Hunter Generations, guild style is a type of hunting style.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the game \"Subnautica\", a \"Cave Crawler\" will attack you.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Tony Hawk's Pro Skater was released in 1999.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Kingdom Hearts the Paopu fruit is said to intertwine the destinies for two people forever.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Konami Code is known as Up, Up, Down, Down, Left, Right, Right, Left, B, A, Start.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "In RuneScape, one must complete the \"Dragon Slayer\" quest before equipping Rune Platelegs.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In Undertale, having a \"Fun Value\" set to 56-57 will play the \"Wrong Number Song Call\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "In Resident Evil 4, the Chicago Typewriter has infinite ammo.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "English new wave musician Gary Numan founded the video game development company Facepunch Studios in March 2009.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Team Fortress 2\", the \"Bill's Hat\" is a reference to the game \"Dota 2\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The ultimate phrase used by Pharah from Overwatch is: \"Justice rains from above!\"",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The main playable character of the 2015 RPG \"Undertale\" is a monster.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "In the Resident Evil series, Leon S. Kennedy is a member of STARS.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Sonic Adventure\", you are able to transform into Super Sonic at will after completing the main story.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In the game \"Until Dawn\" Emily is the only playable character who can be killed by another playable character directly.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The game \"Jetpack Joyride\" was created by \"Redbrick Studios\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The names of Tom Nook's cousins in the Animal Crossing franchise are named \"Timmy\" and \"Jimmy\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The scrapped Sonic the Hedgehog 2 level \"Hidden Palace Zone\" was later reused in the iOS port of the game. ",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In World of Warcraft lore, Thrall is the original wielder of \"Doomhammer\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The shotgun appears in every numbered Resident Evil game.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "\"Sonic the Hedgehog 2\" originally was going to have a time travel system.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Niko Bellic is the protagonist of Grand Theft Auto IV.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Super Mario Bros. was released in 1990.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"Super Mario World\", the rhino mini-boss, Reznor, is named after the lead singer of the band \"Nine Inch Nails\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Metal Gear Solid V: The Phantom Pain runs on the Fox Engine.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In the Monster Hunter Series, it is possible to capture Elder Dragons.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In Splatoon, the Squid Sisters are named Tako and Yaki.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Doki Doki Literature Club was developed in Japan.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In \"The Sims\" series, the most members in a household you can have is 8.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In the Season One Championship of \"League of Legends\", the highest achievable rank was Diamond.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Mortal Kombat was almost based on Jean-Claude Van Damme movie.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Big the Cat is a playable character in \"Sonic Generations\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In the \"S.T.A.L.K.E.R.\" series, the Freedom faction wishes to destroy the supernatural area known as  \"the Zone\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Deus Ex (2000) does not feature the World Trade Center because it was destroyed by terrorist attacks according to the game's plot.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Mann Co. Store from Team Fortress 2 has the slogan \"We hire mercenaries and get in fights\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In Team Fortress 2, being disguised as a scout or medic results in a speed boost.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Faust is a playable character in \"Guilty Gear Xrd Revelator\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Unturned originally started as a Roblox game.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The names of Roxas's Keyblades in Kingdom Hearts are \"Oathkeeper\" and \"Oblivion\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The ADAM collecters in the Bioshock series are known as Little Sisters.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The game Garry's Mod originally took assets and codes from the popular Half Life 2 mod JBmod.",
+        "category": "Entertainment: Video Games",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The song \"Megalovania\" by Toby Fox made its third appearence in the 2015 RPG \"Undertale\".",
+        "category": "Entertainment: Video Games",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Lego Group was founded in 1932.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Pluto is a planet.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The National Animal of Scotland is the Unicorn.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Adolf Hitler was born in Australia. ",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Albert Einstein had trouble with mathematics when he was in school.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "NCIS stands for \"Navy Corps Investigative Service\"",
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Sun rises from the North.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The term \"Spam\" came before the food product \"Spam\".",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "One of Donald Trump's 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "When you cry in space, your tears stick to your face.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The British organisation CAMRA stands for The Campaign for Real Ale.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Great Wall of China is visible from the moon.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "There are 86400 seconds in a day.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "A pasodoble is a type of Italian pasta sauce.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Furby was released in 1998.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "You can legally drink alcohol while driving in Mississippi.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Cucumbers are usually more than 90% water.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Number 16 Bus Shelter\" was a child's name that was approved by the New Zealand government.",
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The commercial UK channel ITV stands for \"International Television\".",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Stagecoach owned \"South West Trains\" before losing the rights to FirstGroup and MTR in March of 2017.",
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Haggis is traditionally ate on Burns Night.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The scientific name for the Southern Lights is Aurora Australis?",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Slovakia is a member of European Union-",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.\" is a grammatically correct sentence.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Dihydrogen Monoxide is a dangerous chemical.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Ananas\" is mostly used as the word for Pineapple in other languages.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "This is the correct spelling of \"Supercalifragilisticexpialidocious\".",
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "You are allowed to sell your soul on eBay.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Sitting for more than three hours a day can cut two years off a person's life expectancy.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Ping-Pong originated in England",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "An eggplant is a vegetable.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Nutella is produced by the German company Ferrero.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "French is an official language in Canada.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The vapor produced by e-cigarettes is actually water.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The word \"news\" originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The mitochondria is the powerhouse of the cell.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Scotland voted to become an independent country during the referendum from September 2014.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The French word to travel is \"Travail\"",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Coca-Cola's original colour was green.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Spoon theory is a theory, utilizing \"Spoons\" as a metaphor for energy they can use in a day.",
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Kissing someone for one minute burns about 2 calories.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Vietnam's national flag is a red star in front of a yellow background.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Bulls are attracted to the color red.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Jingle Bells was originally meant for Thanksgiving",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The French word for \"glass\" is \"glace\".",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The bikini is named after the \"Bikini Atoll\", an island where the United States conducted tests on atomic bombs.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Popcorn was invented in 1871 by Frederick W. Rueckheim in the USA where he sold the snack on the streets of Chicago.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Fast food restaurant chains Carl's Jr. and Hardee's are owned by the same company.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "On average, at least 1 person is killed by a drunk driver in the United States every hour.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The color orange is named after the fruit.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The sum of all the numbers on a roulette wheel is 666.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Gumbo is a stew that originated in Louisiana.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Santa Claus\" is a variety of melon.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Instant mashed potatoes were invented by Canadian Edward Asselbergs in 1962.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "\"27 Club\" is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Typewriter\" is the longest word that can be typed using only the first row on a QWERTY keyboard.",
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The title of the 1969 film \"Krakatoa, East_of Java\" is incorrect, as Krakatoa is in fact west of Java.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Greenland is almost as big as Africa.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Mongolia\" was a part of the now non-existent U.S.S.R.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Republic of Malta is the smallest microstate worldwide.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "California is larger than Japan.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Israel is 7 hours ahead of New York.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "There are no roads in/out of Juneau, Alaska.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Norway has a larger land area than Sweden.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Is Tartu the capital of Estonia?",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Alaska is the largest state in the United States.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Vatican City is a country.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Liechtenstein does not have an airport.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The Sonoran Desert is located in eastern Africa.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "You could walk from Norway to North Korea while only passing through Russia.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Japan has left-hand side traffic.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Antarctica is the largest desert in the world.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The flag of South Africa features 7 colours.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "There are no deserts in Europe.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "There is a city called Rome in every continent on Earth.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Gothenburg is the capital of Sweden.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "New Haven is the capital city of the state of Connecticut in the United States.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "San Marino is the only country completely surrounded by another country.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Only one country in the world starts with the letter Q.",
+        "category": "Geography",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Seoul is the capital of North Korea.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The surface area of Russia is slightly larger than that of the dwarf planet Pluto.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Rhode Island is actually located on the US mainland, despite its name.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Toronto is the capital city of the North American country of Canada.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Tokyo is the capital of Japan.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Vietnam is the only country in the world that starts with V. ",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The capital of the US State Ohio is the city of Chillicothe.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Greenland is covered with grass and Iceland covered with ice.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Switzerland has four national languages, English being one of them.",
+        "category": "Geography",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Hungary is the only country in the world beginning with H.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Southeast Asian island of Borneo is politically divided among 3 countries.",
+        "category": "Geography",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Nova Scotia is on the east coast of Canada.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "A group of islands is called an 'archipelago'.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The two largest ethnic groups of Belgium are Flemish and Walloon. ",
+        "category": "Geography",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "St. Louis is the capital of the US State Missouri.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Ottawa is the capital of Canada.",
+        "category": "Geography",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The USS Missouri (BB-63) last served in the Korean War.",
+        "category": "History",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Hundred Years' War was fought for more than a hundred years.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Former United States Presidents John Adams and Thomas Jefferson died within hours of each other.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The United States of America declared their independence from the British Empire on July 4th, 1776.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Sir Issac Newton served as a Member of Parliament, but the only recorded time he spoke was to complain about a draft in the chambers.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Adolf Hitler was accepted into the Vienna Academy of Fine Arts.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The United States was a member of the League of Nations.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In World War ll, Great Britian used inflatable tanks on the ports of Great Britain to divert Hitler away from Normandy/D-day landing.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The M41 Walker Bulldog remains in service in some countries to this day.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Spitfire originated from a racing plane.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Brezhnev was the 5th leader of the USSR.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The United States Department of Homeland Security was formed in response to the September 11th attacks.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The first televised presidential debate was between Jimmy Carter and Gerald Ford.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Martin Luther King Jr. and Anne Frank were born the same year. ",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In 1967, a magazine published a story about extracting hallucinogenic chemicals from bananas to raise moral questions about banning drugs.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Assyrian king Sennacherib's destruction of Babylon in 689 BCE was viewed as a triumph by other Assyrian citizens.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The Korean War ended in 1953 without any ceasefire.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Adolf Hitler was a german soldier in World War I.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland's.",
+        "category": "History",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Franz Joseph I was the last emperor of Austria.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Theodore Roosevelt Jr. was the only General involved in the initial assault on D-Day.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "In World War II, Hawker Typhoons served in the Pacific theater.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "\"I disapprove of what you say, but I will defend to the death your right to say it\" is a quote from French philosopher Voltaire.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The two atomic bombs dropped on Japan by the United States in August 1945 were named 'Little Man' and 'Fat Boy'.",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Kingdom of Prussia briefly held land in Estonia.",
+        "category": "History",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Abraham Lincoln was the first U.S. President to be born outside the borders of the thirteen original states. ",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Cold War ended with Joseph Stalin's death.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The United States of America was the first country to launch a man into space.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The man that shot Alexander Hamilton was named Aaron Burr.",
+        "category": "History",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Battle of Trafalgar took place on October 23rd, 1805",
+        "category": "History",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Joseph Stalin's real name was Ioseb Bessarionis dze Dzugashvili.",
+        "category": "History",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Tiananmen Square protests of 1989 were held in Hong Kong.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Oxford University is older than the Aztec Empire. ",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Adolf Hitler was tried at the Nuremberg trials.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Japan was part of the Allied Powers during World War I.",
+        "category": "History",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The French Kingdom helped the United States gain their independence over Great Britain during the Revolutionary War.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+        "category": "History",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Thomas Crapper was a plumber who invented the flushing toilet.",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "United States President Ronald Reagan was the first president to appoint a woman to the Supreme Court. ",
+        "category": "History",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Kublai Khan is the grandchild of Genghis Khan?",
+        "category": "History",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Roman god \"Jupiter\" was first known as \"Zeus\" to the Greeks.",
+        "category": "Mythology",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "According to Norse mythology, Loki is a mother.",
+        "category": "Mythology",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The Japanese god Izanagi successfully returned his wife Izanami from the Underworld.",
+        "category": "Mythology",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "A wyvern is the same as a dragon.",
+        "category": "Mythology",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.",
+        "category": "Mythology",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "According to Greek Mythology, Zeus can control lightning.",
+        "category": "Mythology",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Norse mythology, Thor once dressed as a woman.",
+        "category": "Mythology",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Janus was the Roman god of doorways and passageways.",
+        "category": "Mythology",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "According to Greek Mythology, Atlas was an Olympian God.",
+        "category": "Mythology",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In Greek mythology, Hera is the goddess of harvest.",
+        "category": "Mythology",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Denmark has a monarch.",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "George W. Bush lost the popular vote in the 2004 United States presidential election.",
+        "category": "Politics",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Donald Trump won the popular vote in the 2016 United States presidential election.",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Helen Clark was the 37th Prime Minister of Australia.",
+        "category": "Politics",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Jeb Bush was elected as Governor of Florida in 2002, starting his political career.",
+        "category": "Politics",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "One of Barack Obama's United States presidential campaign slogan's was \"Yes We Can\".",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.",
+        "category": "Politics",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Nazi Germany surrendered on Harry Truman's birthday while he was president.",
+        "category": "Politics",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "There was a satirical candidate named \"Deez Nuts\" running in the 2016 US presidential elections.",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The S in Harry S. Truman stands for \"Samuel\".",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Russia passed a law in 2013 which outlaws telling children that homosexuals exist.",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In 2016, the United Kingdom voted to stay in the EU.",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",
+        "category": "Politics",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Former president Theodore Roosevelt (1900-1908)  ran for another term under the Progressive Party in 1912.",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Despite being seperated into multiple countries, The Scandinavian countries are unified by all having the same monarch.",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Joko Widodo has appeared in the cover of a TIME magazine.",
+        "category": "Politics",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The 2016 United States Presidential Election is the first time Hillary Clinton has run for President.",
+        "category": "Politics",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",
+        "category": "Politics",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "A plant that has a life cycle for more than a year is known as an annual.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Salt is 100% composed of Sodium.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Igneous rocks are formed by excessive heat and pressure.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "An exothermic reaction is a chemical reaction that releases energy by radiating electricity.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Neanderthals were a direct ancestor of modern humans.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "An average human can go two weeks without water.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The value of one Calorie is different than the value of one calorie.",
+        "category": "Science &amp; Nature",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Not including false teeth; A human has two sets of teeth in their lifetime.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "A defibrillator is used to start up a heartbeat once a heart has stopped beating.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "An Astronomical Unit is the distance between Earth and the Moon.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The most frequent subconscious activity repeated by the human body is blinking.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Psychology is the science of behavior and mind.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The chemical element Lithium is named after the country of Lithuania.",
+        "category": "Science &amp; Nature",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Scientists accidentally killed the once known world's oldest living creature, a mollusc, known to be aged as 507 years old.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "An atom contains a nucleus.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.",
+        "category": "Science &amp; Nature",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Steel is an alloy of Iron and Carbon.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "A person can get sunburned on a cloudy day.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body's inertia.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "\"Tachycardia\" or \"Tachyarrhythmia\" refers to a resting heart-rate near or over 100 BPM.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Type 1 diabetes is a result of the liver working improperly.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Sugar contains fat.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Sound can travel through a vacuum.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In the periodic table, Potassium's symbol is the letter K.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Shrimp can swim backwards.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The planet Mars has two moons orbiting it.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",
+        "category": "Science &amp; Nature",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Doppler effect applies to light.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The \"Gympie Stinger\" is the deadliest plant in the world.",
+        "category": "Science &amp; Nature",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Android versions are named in alphabetical order.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "\"HTML\" stands for Hypertext Markup Language.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The first computer bug was formed by faulty wires.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "MacOS is based on Linux.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The open source program Redis is a relational database server.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The T-Mobile Sidekick smartphone is a re-branded version of the Danger Hiptop.",
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The logo for Snapchat is a Bell.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Windows 7 operating system has six main editions.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Linus Torvalds created Linux and Git.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The common software-programming acronym \"I18N\" comes from the term \"Interlocalization\".",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The HTML5 standard was published in 2014.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Python programming language gets its name from the British comedy group \"Monty Python.\"",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Time on Computers is measured via the EPOX System.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The programming language \"Python\" is based off a modified version of \"JavaScript\".",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Linux was first created as an alternative to Windows XP.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "A Boolean value of \"0\" represents which of these words?",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In most programming languages, the operator ++ is equivalent to the statement \"+= 1\".",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The first dual-core CPU was the Intel Pentium D.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "It's not possible to format a write-protected DVD-R Hard Disk.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "RAM stands for Random Access Memory.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "FLAC stands for \"Free Lossless Audio Condenser\"'",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Windows ME operating system was released in the year 2000.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "AMD created the first consumer 64-bit processor.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The NVidia GTX 1080 gets its name because it can only render at a 1920x1080 screen resolution.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The very first recorded computer \"bug\" was a moth found inside a Harvard Mark II computer.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The last Windows operating system to be based on the Windows 9x kernel was Windows 98.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "\"Windows NT\" is a monolithic kernel.",
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "Ada Lovelace is often considered the first computer programmer.",
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "DHCP stands for Dynamic Host Configuration Port.",
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Microphones can be used not only to pick up sound, but also to project sound similar to a speaker.",
+        "category": "Science: Gadgets",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
+        "category": "Science: Gadgets",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The communication protocol NFC stands for Near-Field Control.",
+        "category": "Science: Gadgets",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "E = MC3",
+        "category": "Science: Mathematics",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Zero factorial is equal to zero. ",
+        "category": "Science: Mathematics",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "A 'Millinillion' is a real number.",
+        "category": "Science: Mathematics",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "You can square root a negative number with an imaginary number \"i\".",
+        "category": "Science: Mathematics",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "If you could fold a piece of paper in half 50 times, its' thickness will be 3/4th the distance from the Earth to the Sun.",
+        "category": "Science: Mathematics",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In Topology, the complement of an open set is a closed set.",
+        "category": "Science: Mathematics",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.",
+        "category": "Science: Mathematics",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+        "category": "Science: Mathematics",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "An isosceles triangle has two sides of equal length as opposed to three.",
+        "category": "Science: Mathematics",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.",
+        "category": "Science: Mathematics",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "A universal set, or a set that contains all sets, exists.",
+        "category": "Science: Mathematics",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "A scalene triangle has two sides of equal length.",
+        "category": "Science: Mathematics",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The sum of any two odd integers is odd.",
+        "category": "Science: Mathematics",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The set of all algebraic numbers is countable.",
+        "category": "Science: Mathematics",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The binary number \"101001101\" is equivalent to the Decimal number \"334\"",
+        "category": "Science: Mathematics",
+        "difficulty": "hard",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.",
+        "category": "Sports",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The Olympics tennis court is a giant green screen.",
+        "category": "Sports",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
+        "category": "Sports",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+        "category": "Sports",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In Rugby League, performing a \"40-20\" is punished by a free kick for the opposing team.",
+        "category": "Sports",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In 2008, Usain Bolt set the world record for the 100 meters with one shoelace untied.",
+        "category": "Sports",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "ATP tennis hosted several tournaments on carpet court before being replaced to reduce injuries.",
+        "category": "Sports",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Peyton Manning retired after winning Super Bowl XLIX.",
+        "category": "Sports",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Roger Federer is a famous soccer player.",
+        "category": "Sports",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "There are a total of 20 races in Formula One 2016 season.",
+        "category": "Sports",
+        "difficulty": "easy",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Skateboarding was included in the 2020 Summer Olympics in Tokyo.",
+        "category": "Sports",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Tennis was once known as Racquetball.",
+        "category": "Sports",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Formula E is an auto racing series that uses hybrid electric race cars.",
+        "category": "Sports",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "Ferrari has never made a V10 engine for any of its cars.",
+        "category": "Vehicles",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The Chevrolet Corvette has always been made exclusively with V8 engines only.",
+        "category": "Vehicles",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "BMW M GmbH is a subsidiary of BMW AG that focuses on car performance.",
+        "category": "Vehicles",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The General Motors EV1 was the first street-legal production electric vehicle.",
+        "category": "Vehicles",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "When BMW was established in 1916, it was producing automobiles.",
+        "category": "Vehicles",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "The majority of Subaru vehicles are made in China.",
+        "category": "Vehicles",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    },
+    {
+        "question": "In 1993 Swedish car manufacturer Saab experimented with replacing the steering wheel with a joystick in a Saab 9000.",
+        "category": "Vehicles",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The Japanese Shinkansen beat the French TGV's speed record for fastest electric rail train.",
+        "category": "Vehicles",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "True",
+        "is_correct": 0
+    },
+    {
+        "question": "The snowmobile was invented by Canadian Joseph-Armand Bombardier in 1937.",
+        "category": "Vehicles",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "The term \"GTO\" was originated by Ferrari?",
+        "category": "Vehicles",
+        "difficulty": "hard",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "False",
+        "is_correct": 0
+    },
+    {
+        "question": "The full English name of the car manufacturer BMW is Bavarian Motor Works",
+        "category": "Vehicles",
+        "difficulty": "easy",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Arriva is owned by the Deutsche Bahn.",
+        "category": "Vehicles",
+        "difficulty": "medium",
+        "correct_answer": "TRUE",
+        "incorrect_answers": "FALSE",
+        "gpt_response": "True",
+        "is_correct": 1
+    },
+    {
+        "question": "Bugatti was an Italian car manufacturer.",
+        "category": "Vehicles",
+        "difficulty": "medium",
+        "correct_answer": "FALSE",
+        "incorrect_answers": "TRUE",
+        "gpt_response": "False",
+        "is_correct": 1
+    }
+]
